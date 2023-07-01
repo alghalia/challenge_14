@@ -1,13 +1,13 @@
 ** About the project
 This is an Application that implements an algorithmic trading strategy that uses machine learning to automate trade decisions.
 
-** Built With
-Python
-Python conda
-Python JupyterLab
-Python CSV Reading/Writing
-Python pandas
-Python scikit-learn
+* Built With
+* Python
+* Python conda
+* Python JupyterLab
+* Python CSV Reading/Writing
+* Python pandas
+* Python scikit-learn
 
 ** Evaluation Report
 
