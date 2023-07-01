@@ -26,7 +26,7 @@ I will use simple moving average SMA as a baseline proformace which is a technic
 The Baseline Strategy performance didn't yield good results considering that it is predicting an outcome solely based on a cross of two moving averages that have been shifted forward by one period (one day in this model) to predict a future crossing point.
 
 ** Add a plot
-![Screenshot](https://github.com/alghalia/challenge_11/blob/main/Images/Search%20Trend%20.png)
+![Screenshot](https://github.com/alghalia/challenge_14/blob/main/Images/Baseline%20strategy.png))
 
 
 I used SVC, Support Vector Classifiernfrom SKLearn's to fit the training data and make predictions based on the testing data. Review the predictions, SVC is a supervised machine learning algorithm typically used for classification tasks. SVC works by mapping data points to a high-dimensional space and then finding the optimal hyperplane that divides the data into two classes.
