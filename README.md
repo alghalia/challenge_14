@@ -47,7 +47,7 @@ Tune the training algorithm by adjusting the size of the training dataset.What i
 
 Changing the SMA_Slow to a larger number decreased the overall returns as shown in the SMA_Slow = 13 screenshot where you can see that the Actual Returns line matches the Strategy Returns line.
 
-![Screenshot](https://github.com/alghalia/challenge_14/blob/main/Images/Baseline%20strategy.png))
+![Screenshot](https://github.com/alghalia/challenge_14/blob/main/Images/Support%20vector%20machine%20startegy%20.png))
 
 Evaluate a New Machine Learning Classifier
 
