@@ -72,4 +72,13 @@ Changing the SMA_Slow to a larger number increased the overall performance sligh
 
 **RECOMMENDATION** - The Support Vector Machine Strategy is the best strategy for this model and asset. Markets have geometrical properties of data, as well as unstructured and semi-structured properties of data and this is the best approach for the strategy of predicting two crossing moving averages.
 
+## Summary
+
+
+---
+## Contributors
+By AlGhalia Alsammak
+Email:galsammak@gmail.com
+## License
+CU
 
