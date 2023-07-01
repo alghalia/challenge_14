@@ -41,15 +41,27 @@ Assumption This model assumes that the trader is able to consistently enter and 
 
 A more realistic and accurate entry strategy will be needed in order to fine tune a profit strategy, but this was beyond the scope of this analysis. Understanding the risks and assumptions of the model proves this to be a good model since the machine learning aspect of the analysis was proven and it is profitable.
 
+**Support Vector Machine Strategy performance**
+
 The Support Vector Machine Strategy performance well despite the volatility in the market. The Strategy Returns have a better results than the Actual Returns column for this strategy almost consistently. This model attempts to establish a relationship based on geometrical properties of data. It tries to finds the distance that separates the distance between the classes - in this case the classes are the classifications into the signals_df['Signal'] column as 1 or -1.
 
-Tune the training algorithm by adjusting the size of the training dataset.What impact resulted from increasing or decreasing the training window?
+![Screenshot](https://github.com/alghalia/challenge_14/blob/main/Images/Support%20vector%20machine%20startegy%20.png))
+
+
+
+**Tune the training algorithm by adjusting the size of the training dataset**
+
+ Whene I  increasing  the training window to 9 months the returns decreased as shown in the screen shoot below where you can see that the Actual Returns line matches the Strategy Returns line.
+ 
+ When I decrease the training window to 1 month the return perform better then the actual return as shown below.
+
+
 
 Changing the SMA_Slow to a larger number decreased the overall returns as shown in the SMA_Slow = 13 screenshot where you can see that the Actual Returns line matches the Strategy Returns line.
 
 ![Screenshot](https://github.com/alghalia/challenge_14/blob/main/Images/Support%20vector%20machine%20startegy%20.png))
 
-Evaluate a New Machine Learning Classifier
+**Evaluate a New Machine Learning Classifier**
 
 **a LogisticRegression Strategy model.
 
